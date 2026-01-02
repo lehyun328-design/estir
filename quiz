@@ -1,1 +1,101 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>황동 고택 탐색 지침서</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background-color: #f8f8f8;
+      color: #111;
+      line-height: 1.7;
+    }
 
+    header {
+      position: sticky;
+      top: 0;
+      background-color: #f8f8f8;
+      padding: 16px 20px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 20px;
+      font-weight: 600;
+    }
+
+    h2 {
+      margin: 4px 0 0;
+      font-size: 13px;
+      font-weight: 400;
+      color: #555;
+    }
+
+    main {
+      max-width: 640px;
+      padding: 40px 20px;
+      margin: 0 auto;
+    }
+
+    .notice {
+      margin-top: 48px;
+      font-size: 13px;
+      color: #666;
+    }
+
+    .continue {
+      margin-top: 64px;
+      font-size: 14px;
+    }
+
+    .continue a {
+      color: #111;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>황동 고택 탐색 지침서</h1>
+    <h2>나폴리탄 / CoC 7th 팬메이드 시나리오</h2>
+  </header>
+
+  <main>
+    <p>
+      평소라면 무심히 지나쳤을 당신.<br />
+      무료함을 달래기 위해 인터넷을 떠돌다 보게 된 한 사이트.
+    </p>
+
+    <p>
+      서론부터 결론, 글의 구성과 사용된 언어까지.<br />
+      가볍게 훑기만 했는데도 의도는 불분명합니다.
+    </p>
+
+    <p>
+      번역기도 제대로 작동하지 않는 문장,<br />
+      현실감 있게 달린 코멘트들.
+    </p>
+
+    <p>
+      작성자는 무엇을 말하고 싶은 걸까요.
+    </p>
+
+    <div class="notice">
+      <p>
+        ※ 본 문서에는 불쾌감을 유발할 수 있는 표현이 포함될 수 있습니다.<br />
+        ※ 가상의 설정과 묘사를 포함하고 있으며, 현실을 반영하지 않습니다.
+      </p>
+    </div>
+
+    <div class="continue">
+      <a href="./guide.html">계속 읽기</a>
+    </div>
+  </main>
+
+</body>
+</html>
